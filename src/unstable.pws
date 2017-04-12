@@ -1,0 +1,30 @@
+
+[executer]
+RunInTerminal=true
+
+[Project State]
+clean before build=false
+
+[File View]
+filter.file.unmatch=*.so *.o *.a *.la
+filter.file.ignore.hidden=0
+filter.dir.ignore.hidden=0
+
+[filenumbers]
+0=219
+1=1
+2=617
+
+[filemarkers]
+0=
+1=
+2=
+
+[filelist]
+0=/home/minoztro/Desktop/proyecto_remunex/unstable/finingresartrabajador.py
+
+[Project Tree]
+0=0
+
+[File Tree]
+0=0
